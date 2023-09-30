@@ -1,47 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://myplaceholder.github.io/website/course-overview.html</loc>
-    <lastmod>2023-09-29T08:38:04.094Z</lastmod>
+    <loc>https://om2-ws2324.github.io/website/course-overview.html</loc>
+    <lastmod>2023-09-30T12:38:48.005Z</lastmod>
   </url>
   <url>
-    <loc>https://myplaceholder.github.io/website/course-links.html</loc>
-    <lastmod>2023-09-29T08:38:03.362Z</lastmod>
+    <loc>https://om2-ws2324.github.io/website/index.html</loc>
+    <lastmod>2023-09-30T12:38:45.933Z</lastmod>
   </url>
   <url>
-    <loc>https://myplaceholder.github.io/website/index.html</loc>
-    <lastmod>2023-09-29T08:38:01.486Z</lastmod>
+    <loc>https://om2-ws2324.github.io/website/course-support.html</loc>
+    <lastmod>2023-09-30T12:38:45.053Z</lastmod>
   </url>
   <url>
-    <loc>https://myplaceholder.github.io/website/programming-troubleshooting.html</loc>
-    <lastmod>2023-09-29T08:38:00.698Z</lastmod>
+    <loc>https://om2-ws2324.github.io/website/course-syllabus.html</loc>
+    <lastmod>2023-09-30T12:38:44.145Z</lastmod>
   </url>
   <url>
-    <loc>https://myplaceholder.github.io/website/project-tips-resources.html</loc>
-    <lastmod>2023-09-29T08:37:59.950Z</lastmod>
+    <loc>https://om2-ws2324.github.io/website/programming-requirements.html</loc>
+    <lastmod>2023-09-30T12:38:41.517Z</lastmod>
   </url>
   <url>
-    <loc>https://myplaceholder.github.io/website/programming-requirements.html</loc>
-    <lastmod>2023-09-29T08:37:58.142Z</lastmod>
+    <loc>https://om2-ws2324.github.io/website/project-tips-resources.html</loc>
+    <lastmod>2023-09-30T12:38:44.601Z</lastmod>
   </url>
   <url>
-    <loc>https://myplaceholder.github.io/website/course-syllabus.html</loc>
-    <lastmod>2023-09-29T08:37:59.578Z</lastmod>
+    <loc>https://om2-ws2324.github.io/website/code/notebook.html</loc>
+    <lastmod>2023-09-30T12:38:45.481Z</lastmod>
   </url>
   <url>
-    <loc>https://myplaceholder.github.io/website/course-support.html</loc>
-    <lastmod>2023-09-29T08:38:00.346Z</lastmod>
-  </url>
-  <url>
-    <loc>https://myplaceholder.github.io/website/code/notebook.html</loc>
-    <lastmod>2023-09-29T08:38:01.114Z</lastmod>
-  </url>
-  <url>
-    <loc>https://myplaceholder.github.io/website/project-description.html</loc>
-    <lastmod>2023-09-29T08:38:02.958Z</lastmod>
-  </url>
-  <url>
-    <loc>https://myplaceholder.github.io/website/course-faq.html</loc>
-    <lastmod>2023-09-29T08:38:03.730Z</lastmod>
+    <loc>https://om2-ws2324.github.io/website/project-description.html</loc>
+    <lastmod>2023-09-30T12:38:47.565Z</lastmod>
   </url>
 </urlset>
