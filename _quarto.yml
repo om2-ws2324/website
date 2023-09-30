@@ -6,10 +6,10 @@ execute:
 
 website:
   page-navigation: true
-  title: "Title"
-  description: "Homepage for xyz at HdM Stuttgart, WS 23/24."
-  site-url: "https://myplaceholder.github.io/website/"
-  repo-url: https://github.com/myplaceholder/website
+  title: "Big Data and Web Analytics"
+  description: "Homepage for the course Big Data and Web Analytics at HdM Stuttgart, WS 23/24."
+  site-url: "https://om2-ws2324.github.io/website/"
+  repo-url: https://github.com/om2-ws2324/website
   repo-actions: [edit, issue]
   open-graph: true
   image: "/images/logo.png"
@@ -39,7 +39,7 @@ website:
     align: center
     tools:
       - icon: github
-        href: https://github.com/myplaceholder
+        href: https://github.com/om2-ws2324
         text: "GitHub organization"
       - icon: person-fill
         text: "Moodle"
@@ -59,16 +59,10 @@ website:
             text: Support
           - href: index.qmd
             text: Schedule
-          - href: course-links.qmd
-            text: Useful links
-          - href: course-faq.qmd
-            text: FAQ
       - section: "Programming"
         contents:
           - href: programming-requirements.qmd
             text: Requirements
-          - href: programming-troubleshooting.qmd
-            text: Troubleshooting
       - section: "Project"
         contents:
           - href: project-description.qmd
