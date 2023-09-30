@@ -2,15 +2,13 @@
 title: "Course overview"
 ---
 
-![](/images/logo.png)
+
+Welcome to our course Big Data and Web Analytics! 👋  
 
 
-Intro to data science and statistical thinking.
-Learn to explore, visualize, and analyze data to understand natural phenomena, investigate patterns, model outcomes, and make predictions, and do so in a reproducible and shareable manner.
-Gain experience in data wrangling and munging, exploratory data analysis, predictive modeling, and data visualization, and effective communication of results.
-Work on problems and case studies inspired by and based on real-world questions and data.
-The course will focus on the Python computing language.
-No statistical or computing background is necessary.
+![](/images/logo.png){width="60%"}
 
 
-tbd
+In the course of Big Data and Web Analytics, you will delve into the intricacies of the *Digital Customer Journey*, using the See-Think-Do Framework to understand and map customer interactions. You will gain mastery over *analytical tools* such as Google Analytics and Google Ads, and implement web tracking techniques to monitor user interactions. The course also covers effective strategies for *Search Engine and Social Media Marketing*, which enables you to optimize marketing campaigns through analysis of various web and social media metrics.
+
+Students will also be equipped with skills in *Data Analysis and Visualization*, using tools like Excel, SQL, Python + Pandas, and BigQuery to conduct marketing analysis and interpret data through dashboards. Advanced  *Artificial Intelligence and Generative AI* techniques involving Large Language Models, prompt engineering, and HuggingFace will be explored, providing an insight into the cutting-edge technologies shaping the field of marketing. Moreover, the course facilitates practical application by teaching students how to design and build *analytical applications* using Gradio to visualize data, customize dashboards, and enable data-driven decision-making in marketing analytics.
