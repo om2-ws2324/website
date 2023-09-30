@@ -59,16 +59,11 @@ website:
             text: Support
           - href: index.qmd
             text: Schedule
-      - section: "Programming"
+      - section: "Programming & Tools"
         contents:
           - href: programming-requirements.qmd
             text: Requirements
-      - section: "Project"
-        contents:
-          - href: project-description.qmd
-            text: Description
-          - href: project-tips-resources.qmd
-            text: Tips + resources
+
 
 
 format:
