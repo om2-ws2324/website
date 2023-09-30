@@ -2,7 +2,6 @@
 title: "Course overview"
 ---
 
-
 Welcome to our course Big Data and Web Analytics! 👋  
 
 
