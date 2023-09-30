@@ -6,7 +6,7 @@ Welcome to our course Big Data and Web Analytics! 👋
 
 This page contains a weekly overview about the topics and materials for the semester.
 
-:::{Note}
+:::{.callout-note}
 This overview will be updated as the semester progresses.
 :::
 
