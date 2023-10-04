@@ -10,12 +10,14 @@ This page contains a weekly overview about the topics and materials for the seme
 This overview will be updated as the semester progresses.
 :::
 
-
-|	Nr	|	Date	|	Topic	|	Content	|	Resources	|
----	---	---	---	---	---	---	---	---	---	---
-|	1	|	06.10.	|	Introduction	|	Big Data & Web Analytics	|		|
-|	2	|	06.10.	|	Customer Journey	|	Digital Customer Journey	|		|
-|	3	|	06.10.	|	Customer Journey	|	See-Think-Do-Framework	|		|
-|	4	|	06.10.	|	Analytical Tools	|	Web tracking (Blogger & Looker)	|		|
-|	5	|	06.10.	|	Analytical Tools	|	Google Analytics	|		|
-|	6	|	06.10.	|	Analytical Tools	|	UTM Tracking	|		|
+Nr	|	Date	|	Topic	|	Content	|	Resources
+---	---	---	---	---	---	---	---	---
+1	|	06.10.	|	Introduction	|	Big Data & Web Analytics	|	
+2	|	06.10.	|	Customer Journey	|	Digital Customer Journey	|	
+3	|	06.10.	|	Customer Journey	|	See-Think-Do-Framework	|	
+4	|	06.10.	|	Analytical Tools	|	Web tracking (Blogger & Looker)	|	
+5	|	06.10.	|	Analytical Tools	|	Google Analytics	|	
+6	|	06.10.	|	Analytical Tools	|	UTM Tracking	|	
+7	|	06.10.	|	Data Analysis	|	Case Werbeinventar	|	
+8	|	06.10.	|	Analytical Tools	|	Kennzahlensystem	|	
+9	|	06.10.	|	Data Analysis	|	Merchandise Pivot Case Study	|	
