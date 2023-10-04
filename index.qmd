@@ -11,29 +11,11 @@ This overview will be updated as the semester progresses.
 :::
 
 
-|	Nr	|	Date	|	Topic	|	Content	|		Resources		|	
----	---	---	---	---	---	---	---	---		---		---	
-|	1	|	06.10.	|	Introduction	|	Big Data & Web Analytics	|	<!--	[📑](https://docs.google.com/presentation/d/14mDixoFHReJhc7D3G0ooC_CZJ8R14AcjJLXqFfUmKgo/export/pdf)	-->	|	
-|	2	|	06.10.	|	Customer Journey	|	Digital Customer Journey	|	<!--	[📑](https://docs.google.com/presentation/d/1PjsH6zrGXJQmVUeUXqtx97YXXrxmwhj13n442SDNyIE/export/pdf)	-->	|	
-|	3	|	06.10.	|	Customer Journey	|	See-Think-Do-Framework	|	<!--	[📑](https://docs.google.com/presentation/d/1grMoII17Y-8nUMQnbJfVS_xyBnom0us5wBU5fodac4M/export/pdf)	-->	|	
-|	4	|	06.10.	|	Analytical Tools	|	Web tracking (Blogger)	|	<!--	Demo	-->	|	
-|	5	|	06.10.	|	Analytical Tools	|	Google Analytics	|	<!--	[📑](https://docs.google.com/presentation/d/1rWW6ZyH8-Cex4g04wKnXMtjhBZVnPmUdoEZn7rXwer0/export/pdf)	-->	|	
-|	6	|	06.10.	|	Analytical Tools	|	UTM Tracking	|	<!--	[📑](https://docs.google.com/presentation/d/1_BBH1kD_i_bRA4Rcp8PY6TjDpx95lD6NbOAE-YfWxnY/export/pdf)	-->	|	
-|	7	|	06.10.	|	Data Analysis	|	Case Werbeinventar	|	<!--	[📊](https://docs.google.com/presentation/d/1Ft9CfS7HKJPSiRVqXoIVMcOEg1EfGkPFHKBFNzpmo40/view?usp=sharing)	-->	|	
-|	8	|	06.10.	|	Analytical Tools	|	Kennzahlensystem	|	<!--	[📑](https://docs.google.com/presentation/d/1evcXWNKDCT_NhHpORhrAN3FnObkk6ONzT6Fzxefbh1I/export/pdf)	-->	|	
-|	9	|	06.10.	|	Data Analysis	|	Merchandise Pivot Case Study	|	<!--	[📊](https://docs.google.com/presentation/d//view?usp=sharing)	-->	|	
-|	10	|	06.10.	|	SEM	|	Search Engine Marketing	|	<!--	[📑](https://docs.google.com/presentation/d/1y8o7xMkSdoNqKoidJwuSqmAsm8puOkuZMAl0ZqJaDtc/export/pdf)	-->	|	
-|	11	|	06.10.	|	Analytical Tools	|	Google Ads Einrichtung	|	<!--	[📑](https://docs.google.com/presentation/d/174vsh7QP66P4Kdn6lJfjY66sm_IGHPJXqTcQDSeTFG0/export/pdf)	-->	|	
-|	12	|	06.10.	|	SEM	|	Google Ads - Werbung bei Google	|	<!--	[📑](https://docs.google.com/presentation/d/1O1mYT5HGBxd2ZOqGruXiwHozup_i5v2Tc740jHPg-5s/export/pdf)	-->	|	
-|	13	|	06.10.	|	SEM	|	Keyword research	|	<!--	[📑](https://docs.google.com/presentation/d/1yUjdl0_l8_Akr1Q9axYhGs6k1OayNwTV8-gPSTjaNZQ/export/pdf)	-->	|	
-|	14	|	06.10.	|	Analytical Tools	|	Google Search Console	|	<!--	[📑](https://docs.google.com/presentation/d/1rl7v3MyLANhU6HKbwhYdxMzWoHvt6lxoWPdkO9y0UWg/export/pdf)	-->	|	
-|	15	|	06.10.	|	Social Media	|	Facebook Kennzahlen	|	<!--	[📑](https://docs.google.com/presentation/d/1hljb0T3sA5yDMCvSXy_SAv3vgW3hSVasc7dT-wwynPE/export/pdf)	-->	|	
-|	16	|	06.10.	|	Data Analysis	|	Case Facebook	|	<!--	[📊](https://docs.google.com/presentation/d/1yYPmuu3A9RVkRG_TLyh0uftBQI-PbQeWjj_jmNpWSM4/view?usp=sharing)	-->	|	
-|	17	|	06.10.	|	Data Analysis	|	Case Facebook Ads Kampagnen	|	<!--	[📊](https://docs.google.com/presentation/d//view?usp=sharing)	-->	|	
-|	18	|	06.10.	|	Social Media	|	Facebook Booklet	|	<!--	[📑](https://docs.google.com/presentation/d/6feSlpo8wDA9FoTVA8Ev1KFHbn/view?usp=share_li/view?usp=sharing)	-->	|	
-|	19	|	06.10.	|	Social Media	|	Social Media Kennzahlen	|	<!--	[📝](https://docs.google.com/presentation/d/1OAy9Qe3h0AlePEcYoeHF9qPLL7aGYvlhvvXsANrl9-g/view?usp=sharing)	-->	|	
-|	20	|	06.10.	|	Social Media	|	Social Media Template	|	<!--	[📝](https://docs.google.com/presentation/d/15I-qdXuIzqVQo0m7MPdd_u7YK0joMCWU6fHifHkPZHc/view?usp=sharing)	-->	|	
-|	21	|	06.10.	|	Social Media	|	Social Media Tools	|	<!--	[📑](https://docs.google.com/presentation/d/1PRpAkwZTA8CGufafmmxoOFgMW1JrfRFt75o1rau_UTI/export/pdf)	-->	|	
-|	22	|	06.10.	|	Social Media	|	Social Media Report with Python	|	<!--	[🖥](https://kirenz.github.io/lab-social-media)	-->	|	
-|	23	|	06.10.	|	Social Media	|	YouTube Booklet	|	<!--	[📑](https://docs.google.com/presentation/d/xsVqCBc68O1FQByMMn5U-so1I6/view?usp=share_li/view?usp=sharing)	-->	|	
-|	24	|	06.10.	|	Social Media	|	LinkedIn Kampagnenmanager	|	<!--	[📑](https://docs.google.com/presentation/d/1MihlARIenvghHuOG9dHz-dbzZjj2hjOgCW87xHTCabs/export/pdf)	-->	|	
+|	Nr	|	Date	|	Topic	|	Content	|	Resources	|
+---	---	---	---	---	---	---	---	---	---	---
+|	1	|	06.10.	|	Introduction	|	Big Data & Web Analytics	|		|
+|	2	|	06.10.	|	Customer Journey	|	Digital Customer Journey	|		|
+|	3	|	06.10.	|	Customer Journey	|	See-Think-Do-Framework	|		|
+|	4	|	06.10.	|	Analytical Tools	|	Web tracking (Blogger & Looker)	|		|
+|	5	|	06.10.	|	Analytical Tools	|	Google Analytics	|		|
+|	6	|	06.10.	|	Analytical Tools	|	UTM Tracking	|		|
