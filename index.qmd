@@ -25,6 +25,6 @@ This overview will be updated as the semester progresses.
 |	11	|	06.10.	|	Data Analysis	|	Case Facebook Ads Kampagnen	|		[📊](https://docs.google.com/spreadsheets/d/1svLWw4-mtjcfOfTTxxu2e6PKWlLmhUgeGtefzE6I3mk/edit?usp=sharing)		|	
 |	12	|	06.10.	|	Social Media	|	Social Media Kennzahlen	|		[📝](https://docs.google.com/presentation/d/1OAy9Qe3h0AlePEcYoeHF9qPLL7aGYvlhvvXsANrl9-g/view?usp=sharing)		|	
 |	13	|	06.10.	|	Social Media	|	Social Media Template	|		[📝](https://docs.google.com/presentation/d/15I-qdXuIzqVQo0m7MPdd_u7YK0joMCWU6fHifHkPZHc/view?usp=sharing)		|	
-|	15	|	06.10.	|	Social Media	|	See-Think-Do-Framework	|		[📑](https://docs.google.com/presentation/d/1grMoII17Y-8nUMQnbJfVS_xyBnom0us5wBU5fodac4M/export/pdf)		|	
-|	16	|	06.10.	|	Customer Journey	|	Kennzahlensystem	|		[📑](https://docs.google.com/presentation/d/1evcXWNKDCT_NhHpORhrAN3FnObkk6ONzT6Fzxefbh1I/export/pdf)		|	
-|	9	|	06.10.	|	Analytical Tools	|	Case Werbeinventar	|		[📊](https://docs.google.com/spreadsheets/d/1Ft9CfS7HKJPSiRVqXoIVMcOEg1EfGkPFHKBFNzpmo40/edit?usp=sharing)		|	
+|	15	|	06.10.	|	Customer Journey	|	See-Think-Do-Framework	|		[📑](https://docs.google.com/presentation/d/1grMoII17Y-8nUMQnbJfVS_xyBnom0us5wBU5fodac4M/export/pdf)		|	
+|	16	|	06.10.	|	Analytical Tools	|	Kennzahlensystem	|		[📑](https://docs.google.com/presentation/d/1evcXWNKDCT_NhHpORhrAN3FnObkk6ONzT6Fzxefbh1I/export/pdf)		|	
+|	9	|	06.10.	|	Data Analysis	|	Case Werbeinventar	|		[📊](https://docs.google.com/spreadsheets/d/1Ft9CfS7HKJPSiRVqXoIVMcOEg1EfGkPFHKBFNzpmo40/edit?usp=sharing)		|	
