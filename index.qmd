@@ -10,7 +10,6 @@ This page contains a weekly overview about the topics and materials for the seme
 This overview will be updated as the semester progresses.
 :::
 
-
 |	Nr	|	Date	|	Topic	|	Content	|		Resources		|	
 |	---	|	---	|	---	|	---	|		---		|	
 |	1	|	06.10.	|	Introduction	|	Big Data & Web Analytics	|		[📑](https://docs.google.com/presentation/d/14mDixoFHReJhc7D3G0ooC_CZJ8R14AcjJLXqFfUmKgo/export/pdf)		|	
@@ -28,3 +27,6 @@ This overview will be updated as the semester progresses.
 |	13	|	06.10.	|	Social Media	|	Social Media Template	|		[📝](https://docs.google.com/presentation/d/15I-qdXuIzqVQo0m7MPdd_u7YK0joMCWU6fHifHkPZHc/view?usp=sharing)		|	
 |	15	|	06.10.	|	Social Media	|	See-Think-Do-Framework	|		[📑](https://docs.google.com/presentation/d/1grMoII17Y-8nUMQnbJfVS_xyBnom0us5wBU5fodac4M/export/pdf)		|	
 |	16	|	06.10.	|	Customer Journey	|	Kennzahlensystem	|		[📑](https://docs.google.com/presentation/d/1evcXWNKDCT_NhHpORhrAN3FnObkk6ONzT6Fzxefbh1I/export/pdf)		|	
+|	9	|	06.10.	|	Analytical Tools	|	Case Werbeinventar	|		[📊](https://docs.google.com/spreadsheets/d/1Ft9CfS7HKJPSiRVqXoIVMcOEg1EfGkPFHKBFNzpmo40/edit?usp=sharing)		|	
+|	14	|	06.10.	|	Data Analysis	|	Google Ads Einrichtung	|		[📑](https://docs.google.com/presentation/d/174vsh7QP66P4Kdn6lJfjY66sm_IGHPJXqTcQDSeTFG0/export/pdf)		|	
+|	15	|	06.10.	|	Analytical Tools	|	Google Ads - Werbung bei Google	|		[📑](https://docs.google.com/presentation/d/1O1mYT5HGBxd2ZOqGruXiwHozup_i5v2Tc740jHPg-5s/export/pdf)		|	
