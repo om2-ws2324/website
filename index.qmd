@@ -10,18 +10,16 @@ This page contains a weekly overview about the topics and materials for the seme
 This overview will be updated as the semester progresses.
 :::
 
-
-|	Nr	|	Date	|	Content	|		Material		|	
-|	---	|	---	|	---	|		---		|	
-|	1	|	05.10.	|	Data storytelling	|	<!--	[📑](https://docs.google.com/presentation/d/1irnXZ4O9d3xVypWxOkViNmUzqr5Q1dVRuxi17VAmKaM/export/pdf)	-->	|	
-|	2	|	05.10.	|	Data driven decision making	|	<!--	[📑](https://docs.google.com/presentation/d/1AfzqhjEAfJ5X4Q8YC9GK14jEBfdDXEIRmXonriwYHNY/export/pdf)	-->	|	
-|	3	|	05.10.	|	The importance of context	|	<!--	[📑](https://docs.google.com/presentation/d/1XXsxfPoo2kCCnR8FZ6Bs4CGpfx81_vck-VY2C7meEOM/export/pdf)	-->	|	
-|	4	|	05.10.	|	Pet shelter case study	|	<!--	[📑](https://docs.google.com/presentation/d/1L-QNkIez3WQ6jt4lwUv_Sf-UokwwlgL3Og5drO5Vs18/export/pdf)	-->	|	
-|	5	|	05.10.	|	Back to school sale case study	|	<!--	[📑](https://docs.google.com/presentation/d/1_jGHyu0aKsQk7jxOmHgscreCrfcqrp9WbQdtWyg087o/export/pdf)	-->	|	
-|	6	|	05.10.	|	Big idea worksheet	|	<!--	[📑](https://docs.google.com/presentation/d/1-GZvhdbhLYLB_Bo1arj1rgTqbJ5SUoU21vtgbYEhVqk/export/pdf)	-->	|	
-|	7	|	05.10.	|	Narrow your audience	|	<!--	[📑](https://docs.google.com/presentation/d/1Eu21TCIM0Lx6LiybPG-15ikk0gkRaqbCQNtcl3fAfGQ/export/pdf)	-->	|	
-|	8	|	05.10.	|	Storyboard 1	|	<!--	[📑](https://docs.google.com/presentation/d/1cuiBZiWaUkhAYNkQo6SWtWm8n_Q1IJt54lw0Na2-0DE/export/pdf)	-->	|	
-|	9	|	05.10.	|	Storyboard 2	|	<!--	[📑](https://docs.google.com/presentation/d/1WeLzE85YfM-F9-vAIhEbeJHkuHsN3xtovzIokB93BRU/export/pdf)	-->	|	
-|	10	|	05.10.	|	Choose an appropriate display	|	<!--	[📑](https://docs.google.com/presentation/d/1-uFVcFI7Y1ShyToEzahbg0VlkLnyn7A5Dq7NaHrZmU0/export/pdf)	-->	|	
-|	11	|	05.10.	|	Display exercise 2-1	|	<!--	[📑](https://docs.google.com/presentation/d/12R3bTZvhj4drvjdQDjgUqk9a0LdAeUSZtELQIkt2ewM/export/pdf)	-->	|	
-|	12	|	05.10.	|	Display exercise 2-2	|	<!--	[📑](https://docs.google.com/presentation/d/1KOeBmMKYMon5-PTgwfFpRygz5PWvgD0W1gqjHfZvcfk/export/pdf)	-->	|	
+|	Nr	|	Date	|	Topic	|	Content	|		Resources		|	
+|	---	|	---	|	---	|	---	|		---		|	
+|	1	|	06.10.	|	Introduction	|	Big Data & Web Analytics	|	<!--	[📑](https://docs.google.com/presentation/d/14mDixoFHReJhc7D3G0ooC_CZJ8R14AcjJLXqFfUmKgo/export/pdf)	-->	|	
+|	2	|	06.10.	|	Customer Journey	|	Digital Customer Journey	|	<!--	[📑](https://docs.google.com/presentation/d/1PjsH6zrGXJQmVUeUXqtx97YXXrxmwhj13n442SDNyIE/export/pdf)	-->	|	
+|	3	|	06.10.	|	Customer Journey	|	See-Think-Do-Framework	|	<!--	[📑](https://docs.google.com/presentation/d/1grMoII17Y-8nUMQnbJfVS_xyBnom0us5wBU5fodac4M/export/pdf)	-->	|	
+|	4	|	06.10.	|	Analytical Tools	|	Web tracking (Blogger & Looker)	|	<!--	Demo	-->	|	
+|	5	|	06.10.	|	Analytical Tools	|	Google Analytics	|	<!--	[📑](https://docs.google.com/presentation/d/1rWW6ZyH8-Cex4g04wKnXMtjhBZVnPmUdoEZn7rXwer0/export/pdf)	-->	|	
+|	6	|	06.10.	|	Analytical Tools	|	UTM Tracking	|	<!--	[📑](https://docs.google.com/presentation/d/1_BBH1kD_i_bRA4Rcp8PY6TjDpx95lD6NbOAE-YfWxnY/export/pdf)	-->	|	
+|	7	|	06.10.	|	Data Analysis	|	Case Werbeinventar	|	<!--	[📊](https://docs.google.com/presentation/d/1Ft9CfS7HKJPSiRVqXoIVMcOEg1EfGkPFHKBFNzpmo40/view?usp=sharing)	-->	|	
+|	8	|	06.10.	|	Analytical Tools	|	Kennzahlensystem	|	<!--	[📑](https://docs.google.com/presentation/d/1evcXWNKDCT_NhHpORhrAN3FnObkk6ONzT6Fzxefbh1I/export/pdf)	-->	|	
+|	9	|	06.10.	|	Data Analysis	|	Merchandise Pivot Case Study	|	<!--	[📊](https://docs.google.com/presentation/d//view?usp=sharing)	-->	|	
+|	10	|	06.10.	|	SEM	|	Search Engine Marketing	|	<!--	[📑](https://docs.google.com/presentation/d/1y8o7xMkSdoNqKoidJwuSqmAsm8puOkuZMAl0ZqJaDtc/export/pdf)	-->	|	
+|	11	|	06.10.	|	Analytical Tools	|	Google Ads Einrichtung	|	<!--	[📑](https://docs.google.com/presentation/d/174vsh7QP66P4Kdn6lJfjY66sm_IGHPJXqTcQDSeTFG0/export/pdf)	-->	|	
