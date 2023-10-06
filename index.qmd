@@ -17,4 +17,4 @@ This overview will be updated as the semester progresses.
 |	3	|	06.10.	|	Analytical Tools	|	Web tracking (Blogger & Looker)	|		Demo		|	
 |	4	|	06.10.	|	Customer Journey	|	Google Analytics	|		[📑](https://docs.google.com/presentation/d/1rWW6ZyH8-Cex4g04wKnXMtjhBZVnPmUdoEZn7rXwer0/export/pdf)		|	
 |	5	|	06.10.	|	Analytical Tools	|	UTM Tracking	|		[📑](https://docs.google.com/presentation/d/1_BBH1kD_i_bRA4Rcp8PY6TjDpx95lD6NbOAE-YfWxnY/export/pdf)		|	
-|	6	|	06.10.	|	Analytical Tools	|	Case Werbeinventar	|	<!--	[📊](https://docs.google.com/presentation/d/1Ft9CfS7HKJPSiRVqXoIVMcOEg1EfGkPFHKBFNzpmo40/view?usp=sharing)	-->	|	
+|	6	|	06.10.	|	Analytical Tools	|	Case Werbeinventar	|		[📊](https://docs.google.com/presentation/d/1Ft9CfS7HKJPSiRVqXoIVMcOEg1EfGkPFHKBFNzpmo40/view?usp=sharing)		|	
