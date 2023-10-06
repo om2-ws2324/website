@@ -23,7 +23,7 @@ This overview will be updated as the semester progresses.
 |	8	|	06.10.	|	Data Analysis	|	Case Facebook	|		[📊](https://docs.google.com/spreadsheets/d/1aTkSrNZPeh14Ier3WX-Po5zIlmLWujLfWLfqQcLHKXo/edit?usp=sharing)		|	
 |	9	|	06.10.	|	Data Analysis	|	Merchandise Pivot Case Study	|		[📊](https://docs.google.com/spreadsheets/d/1hsUE0PHJR-wmELI8y2XFgcYBFFwqKG4UjI3Y8odM6kU/edit?usp=sharing)		|	
 |	10	|	06.10.	|	Data Analysis	|	Studio Looker Dashboard	|		[📊](https://lookerstudio.google.com/navigation/reporting)		|	
-|	11	|	06.10.	|	Data Analysis	|	Case Facebook Ads Kampagnen	|		[📊](https://docs.google.com/presentation/d//view?usp=sharing)		|	
+|	11	|	06.10.	|	Data Analysis	|	Case Facebook Ads Kampagnen	|		[📊](https://docs.google.com/spreadsheets/d/1svLWw4-mtjcfOfTTxxu2e6PKWlLmhUgeGtefzE6I3mk/edit?usp=sharing)		|	
 |	12	|	06.10.	|	Social Media	|	Social Media Kennzahlen	|		[📝](https://docs.google.com/presentation/d/1OAy9Qe3h0AlePEcYoeHF9qPLL7aGYvlhvvXsANrl9-g/view?usp=sharing)		|	
 |	13	|	06.10.	|	Social Media	|	Social Media Template	|		[📝](https://docs.google.com/presentation/d/15I-qdXuIzqVQo0m7MPdd_u7YK0joMCWU6fHifHkPZHc/view?usp=sharing)		|	
 |	15	|	06.10.	|	Social Media	|	See-Think-Do-Framework	|		[📑](https://docs.google.com/presentation/d/1grMoII17Y-8nUMQnbJfVS_xyBnom0us5wBU5fodac4M/export/pdf)		|	
