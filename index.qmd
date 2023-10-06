@@ -9,16 +9,16 @@ This page contains a weekly overview about the topics and materials for the seme
 :::{.callout-note}
 This overview will be updated as the semester progresses.
 :::
-|	Nr	|	Date	|	Topic	|	Content	|		Resources		|	
-|	---	|	---	|	---	|	---	|		---		|	
-|	1	|	06.10.	|	Introduction	|	Big Data & Web Analytics	|		[📑](https://docs.google.com/presentation/d/14mDixoFHReJhc7D3G0ooC_CZJ8R14AcjJLXqFfUmKgo/export/pdf)		|	
-|	2	|	06.10.	|	Customer Journey	|	Digital Customer Journey	|		[📑](https://docs.google.com/presentation/d/1PjsH6zrGXJQmVUeUXqtx97YXXrxmwhj13n442SDNyIE/export/pdf)		|	
-|	3	|	06.10.	|	Analytical Tools	|	Web tracking (Blogger & GA4)	|		Demo		|	
-|	4	|	06.10.	|	Analytical Tools	|	Google Analytics	|		[📑](https://docs.google.com/presentation/d/1rWW6ZyH8-Cex4g04wKnXMtjhBZVnPmUdoEZn7rXwer0/export/pdf)		|	
-|	5	|	06.10.	|	Analytical Tools	|	UTM Tracking	|		[📑](https://docs.google.com/presentation/d/1_BBH1kD_i_bRA4Rcp8PY6TjDpx95lD6NbOAE-YfWxnY/export/pdf)		|	
-|	6	|	06.10.	|	Analytical Tools	|	Google Search Console	|		[📑](https://docs.google.com/presentation/d/1rl7v3MyLANhU6HKbwhYdxMzWoHvt6lxoWPdkO9y0UWg/export/pdf)		|	
-|	7	|	06.10.	|	Social Media	|	Facebook Kennzahlen	|		[📑](https://docs.google.com/presentation/d/1hljb0T3sA5yDMCvSXy_SAv3vgW3hSVasc7dT-wwynPE/export/pdf)		|	
-|	8	|	06.10.	|	Data Analysis	|	Case Facebook	|		[📊](https://docs.google.com/spreadsheets/d/1aTkSrNZPeh14Ier3WX-Po5zIlmLWujLfWLfqQcLHKXo/edit?usp=sharing)		|	
-|	9	|	06.10.	|	Social Media	|	Merchandise Pivot Case Study	|		[📊](https://docs.google.com/spreadsheets/d/1hsUE0PHJR-wmELI8y2XFgcYBFFwqKG4UjI3Y8odM6kU/edit?usp=sharing)		|	
-|	10	|	06.10.	|	Data Analysis	|	Social Media Kennzahlen	|		[📝](https://docs.google.com/presentation/d/1OAy9Qe3h0AlePEcYoeHF9qPLL7aGYvlhvvXsANrl9-g/view?usp=sharing)		|	
-|	11	|	06.10.	|	Customer Journey	|	Social Media Template	|		[📝](https://docs.google.com/presentation/d/15I-qdXuIzqVQo0m7MPdd_u7YK0joMCWU6fHifHkPZHc/view?usp=sharing)		|	
+
+|	Nr	|	Date	|	Topic	|	Content	|		Resources	
+|	---	|	---	|	---	|	---	|		---	
+|	1	|	06.10.	|	Introduction	|	Big Data & Web Analytics	|		[📑](https://docs.google.com/presentation/d/14mDixoFHReJhc7D3G0ooC_CZJ8R14AcjJLXqFfUmKgo/export/pdf)	
+|	2	|	06.10.	|	Customer Journey	|	Digital Customer Journey	|		[📑](https://docs.google.com/presentation/d/1PjsH6zrGXJQmVUeUXqtx97YXXrxmwhj13n442SDNyIE/export/pdf)	
+|	3	|	06.10.	|	Analytical Tools	|	Web tracking (Blogger & GA4)	|		Demo	
+|	4	|	06.10.	|	Analytical Tools	|	Google Analytics	|		[📑](https://docs.google.com/presentation/d/1rWW6ZyH8-Cex4g04wKnXMtjhBZVnPmUdoEZn7rXwer0/export/pdf)	
+|	5	|	06.10.	|	Analytical Tools	|	UTM Tracking	|		[📑](https://docs.google.com/presentation/d/1_BBH1kD_i_bRA4Rcp8PY6TjDpx95lD6NbOAE-YfWxnY/export/pdf)	
+|	6	|	06.10.	|	Analytical Tools	|	Google Search Console	|		[📑](https://docs.google.com/presentation/d/1rl7v3MyLANhU6HKbwhYdxMzWoHvt6lxoWPdkO9y0UWg/export/pdf)	
+|	7	|	06.10.	|	Social Media	|	Facebook Kennzahlen	|		[📑](https://docs.google.com/presentation/d/1hljb0T3sA5yDMCvSXy_SAv3vgW3hSVasc7dT-wwynPE/export/pdf)	
+|	8	|	06.10.	|	Data Analysis	|	Case Facebook	|		[📊](https://docs.google.com/spreadsheets/d/1aTkSrNZPeh14Ier3WX-Po5zIlmLWujLfWLfqQcLHKXo/edit?usp=sharing)	
+|	9	|	06.10.	|	Data Analysis	|	Merchandise Pivot Case Study	|		[📊](https://docs.google.com/spreadsheets/d/1hsUE0PHJR-wmELI8y2XFgcYBFFwqKG4UjI3Y8odM6kU/edit?usp=sharing)	
+|	11	|	06.10.	|	Data Analysis	|	Studio Looker Dashboard	|		[📊](https://lookerstudio.google.com/navigation/reporting)	
