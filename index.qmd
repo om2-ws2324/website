@@ -10,7 +10,6 @@ This page contains a weekly overview about the topics and materials for the seme
 This overview will be updated as the semester progresses. Content marked as optional is not relevant for the exam.
 :::
 
-
 |	Nr	|	Date	|	Content	|		Resources		|	
 |	---	|	---	|	---	|		---		|	
 |		|		|	**Web Analytics & Social Media Analytics**	|				|	
@@ -34,4 +33,4 @@ This overview will be updated as the semester progresses. Content marked as opti
 |	18	|	11.10.	|	Google Ads - Werbung bei Google (optional)	|		[📑](https://docs.google.com/presentation/d/1O1mYT5HGBxd2ZOqGruXiwHozup_i5v2Tc740jHPg-5s/export/pdf)		|	
 |	19	|	11.10.	|	Social Media Tools (optional)	|		[📑](https://docs.google.com/presentation/d/1PRpAkwZTA8CGufafmmxoOFgMW1JrfRFt75o1rau_UTI/export/pdf)		|	
 |		|		|	**BigQuery for Marketing Analysts**	|		[💻](https://www.cloudskillsboost.google/quests/70?catalog_rank=%7B%22rank%22%3A48%2C%22num_filters%22%3A7%2C%22has_search%22%3Afalse%7D)		|	
-|	20	|	11.10.	|	Exploring Your Ecommerce Dataset with SQL in Google BigQuery	|		[💻](https://www.cloudskillsboost.google/focuses/3618?parent=catalog)		|	
+|	20	|	11.10.	|	Lab 1: Exploring Your Ecommerce Dataset with SQL	|		[💻](https://www.cloudskillsboost.google/focuses/3618?parent=catalog)		|	
