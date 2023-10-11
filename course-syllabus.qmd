@@ -70,7 +70,7 @@ The assignment ["BigQuery for Marketing Analysts Badge"](https://www.cloudskills
 
 
 :::{.callout-important}
-Use an Incognito or private browser window to create a new [Google Cloud account](https://www.cloudskillsboost.google/users/sign_in) with your **HdM-mail**. This prevents any conflicts between your personal account and the student account you need for the labs
+Use an Incognito or private browser window to create a new [Google Cloud account](https://www.cloudskillsboost.google/users/sign_up) (choose the option "create account" at the bottom of the page) with your **HdM-mail**. This prevents any conflicts between your personal account and the student account you need for the labs
 :::
 
 It covers the following topics:
