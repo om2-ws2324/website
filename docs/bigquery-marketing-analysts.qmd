@@ -1,0 +1,28 @@
+---
+title: "BigQuery for Marketing Analysts"
+---
+
+
+In the follwoing sections you will find information about exam-relevant contents. 
+
+## Lab 1
+
+**Exploring Your Ecommerce Dataset with SQL**
+
+You should understand all *SQL queries* provided in the lab. Furthermore, you should be able to answer the following questions:
+
+- What is BigQuery?
+- What kind of information is provided in the BigQuery Schema-tab?
+
+## Lab 2
+
+**Explore and Create Reports with Looker Studio**
+
+You should know how to create a report in Looker Studio. Furthermore, you should be able to answer the following questions:
+
+- What is the difference between a Dimension and a Metric in Looker Studio?
+
+## Lab 3
+
+**Creating Permanent Tables and Access-Controlled Views in BigQuery**
+
