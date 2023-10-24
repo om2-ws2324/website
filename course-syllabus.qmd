@@ -64,7 +64,7 @@ By undertaking the GA4 certification, you not only align your skills with indust
 
 The certification process will guide you through the functionalities and features of GA4, enabling you to effectively analyze and interpret digital data to optimize your online strategies. This credential is also recognized professionally. 
 
-## BigQuery for Marketing Analysts Badge
+## BigQuery for Marketing Analysts Badges
 
 The assignment ["BigQuery for Marketing Analysts Badge"](https://www.cloudskillsboost.google/course_templates/678) encompasses the subjects of transforming your marketing data into insights and constructing dashboards. 
 
@@ -80,8 +80,12 @@ It covers the following topics:
 - How to build a BI-Dashboard with *Looker*
 
 
+:::{.callout-caution}
+You dont need to complete all of the labs provided in the BigQuery for Marketing Analysts course (only the first 5 labs are relevant)
+:::
 
 Upon finishing the required items in the course, you will earn a badge of completion. You will need to provide a link to your badge in Moodle. 
+
 
 
 ## Generative AI Skill Badge
