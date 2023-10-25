@@ -11,20 +11,32 @@ This overview will be updated as the semester progresses. Content marked as opti
 :::
 
 
-|	Nr	|	Date	|	Content	|		Material		|	Link	|	Data	|	
-|	---	|	---	|	---	|		---		|	---	|	---	|	
-|	1	|	05.10.	|	Data storytelling	|		[📑](https://docs.google.com/presentation/d/1irnXZ4O9d3xVypWxOkViNmUzqr5Q1dVRuxi17VAmKaM/export/pdf)		|		|		|	
-|	2	|	05.10.	|	The importance of context	|		[📑](https://docs.google.com/presentation/d/1XXsxfPoo2kCCnR8FZ6Bs4CGpfx81_vck-VY2C7meEOM/export/pdf)		|		|		|	
-|	3	|	05.10.	|	Pet shelter case study	|		[📑](https://docs.google.com/presentation/d/1L-QNkIez3WQ6jt4lwUv_Sf-UokwwlgL3Og5drO5Vs18/export/pdf)		|		|		|	
-|	4	|	05.10.	|	Back to school sale case study	|		[📑](https://docs.google.com/presentation/d/1_jGHyu0aKsQk7jxOmHgscreCrfcqrp9WbQdtWyg087o/export/pdf)		|		|		|	
-|	5	|	05.10.	|	Big idea worksheet	|		[📑](https://docs.google.com/document/d/1-GZvhdbhLYLB_Bo1arj1rgTqbJ5SUoU21vtgbYEhVqk/edit?usp=sharing)		|		|		|	
-|	6	|	05.10.	|	Narrow your audience	|		[📑](https://docs.google.com/document/d/1Eu21TCIM0Lx6LiybPG-15ikk0gkRaqbCQNtcl3fAfGQ/edit?usp=sharing)		|		|		|	
-|	7	|	05.10.	|	Storyboard 1	|		[📑](https://docs.google.com/document/d/1cuiBZiWaUkhAYNkQo6SWtWm8n_Q1IJt54lw0Na2-0DE/edit?usp=sharing)		|		|		|	
-|	8	|	05.10.	|	Storyboard 2	|		[📑](https://docs.google.com/document/d/1WeLzE85YfM-F9-vAIhEbeJHkuHsN3xtovzIokB93BRU/edit?usp=sharing)		|		|		|	
-|	9	|	05.10.	|	Pandas introduction lab	|		[🖥️](https://kirenz.github.io/lab-pandas-intro)		|		|		|	
-|	10	|	05.10.	|	Choose an appropriate display	|		[📑](https://docs.google.com/presentation/d/1-uFVcFI7Y1ShyToEzahbg0VlkLnyn7A5Dq7NaHrZmU0/export/pdf)		|		|		|	
-|	11	|	16.10.	|	Data basics	|		[📑](https://docs.google.com/presentation/d/1IlR_HTTNE865xiT3GlXD5_RNZDMMtlbNKRftLXPPmsw/export/pdf)		|	[📝](https://miro.com/app/board/uXjVNbJmXUQ=/)	|	[💽 loan50.csv](https://raw.githubusercontent.com/kirenz/datasets/master/loan50.csv)	|	
-|	12	|	16.10.	|	Simple bar chart	|		[📑](https://docs.google.com/presentation/d/1RpYvnIxE5QCK3-urCa76CHUvDqOKlFb7TdAn6XgYjew/export/pdf)		|		|	[💽 loan50.csv](https://raw.githubusercontent.com/kirenz/datasets/master/loan50.csv)	|	
-|	13	|	23.10.	|	Stacked bar plot	|	<!--	[📑](https://docs.google.com/presentation/d/1TU5pqJqfgzcBRitDtSxjdRPhwl2TM9Rt3u3FHTPT020/export/pdf)	-->	|		|	[💽 loan50.csv](https://raw.githubusercontent.com/kirenz/datasets/master/loan50.csv)	|	
-|	14	|	23.10.	|	Standardized bar plot	|	<!--	[📑](https://docs.google.com/presentation/d/1BV7XwkZLfTMe5acsDomL3pcSsNhatpswRa11XuzNuLQ/export/pdf)	-->	|		|		|	
-|	15	|	23.10.	|	Eliminate clutter	|	<!--	[📑](https://docs.google.com/presentation/d/1ixTCCx1xylQveXPwcV3g19fa_ZyXRJYXl69yG6kG7CE/export/pdf)	-->	|		|		|	
+
+|	Nr	|	Date	|	Content	|		Resources		|	
+|	---	|	---	|	---	|		---		|	
+|		|		|	**Web Analytics & Social Media Analytics**	|				|	
+|	1	|	06.10.	|	Big Data & Web Analytics	|		[📑](https://docs.google.com/presentation/d/14mDixoFHReJhc7D3G0ooC_CZJ8R14AcjJLXqFfUmKgo/export/pdf)		|	
+|	2	|	06.10.	|	Digital Customer Journey	|		[📑](https://docs.google.com/presentation/d/1PjsH6zrGXJQmVUeUXqtx97YXXrxmwhj13n442SDNyIE/export/pdf)		|	
+|	3	|	06.10.	|	Web tracking mit Blogger (optional)	|		Demo		|	
+|	4	|	06.10.	|	Google Analytics	|		[📑](https://docs.google.com/presentation/d/1rWW6ZyH8-Cex4g04wKnXMtjhBZVnPmUdoEZn7rXwer0/export/pdf)		|	
+|	5	|	06.10.	|	UTM Tracking	|		[📑](https://docs.google.com/presentation/d/1_BBH1kD_i_bRA4Rcp8PY6TjDpx95lD6NbOAE-YfWxnY/export/pdf)		|	
+|	6	|	06.10.	|	Google Search Console (optional)	|		[📑](https://docs.google.com/presentation/d/1rl7v3MyLANhU6HKbwhYdxMzWoHvt6lxoWPdkO9y0UWg/export/pdf)		|	
+|	7	|	06.10.	|	Facebook Kennzahlen	|		[📑](https://docs.google.com/presentation/d/1hljb0T3sA5yDMCvSXy_SAv3vgW3hSVasc7dT-wwynPE/export/pdf)		|	
+|	8	|	06.10.	|	Case Facebook	|		[📊](https://docs.google.com/spreadsheets/d/1aTkSrNZPeh14Ier3WX-Po5zIlmLWujLfWLfqQcLHKXo/edit?usp=sharing)		|	
+|	9	|	06.10.	|	Merchandise Pivot Case Study	|		[📊](https://docs.google.com/spreadsheets/d/1hsUE0PHJR-wmELI8y2XFgcYBFFwqKG4UjI3Y8odM6kU/edit?usp=sharing)		|	
+|	10	|	06.10.	|	Studio Looker Dashboard	|		[📊](https://lookerstudio.google.com/navigation/reporting)		|	
+|	11	|	06.10.	|	Case Facebook Ads Kampagnen	|		[📊](https://docs.google.com/spreadsheets/d/1svLWw4-mtjcfOfTTxxu2e6PKWlLmhUgeGtefzE6I3mk/edit?usp=sharing)		|	
+|	12	|	06.10.	|	Social Media Kennzahlen	|		[📝](https://docs.google.com/presentation/d/1OAy9Qe3h0AlePEcYoeHF9qPLL7aGYvlhvvXsANrl9-g/view?usp=sharing)		|	
+|	13	|	06.10.	|	Social Media Template	|		[📝](https://docs.google.com/presentation/d/15I-qdXuIzqVQo0m7MPdd_u7YK0joMCWU6fHifHkPZHc/view?usp=sharing)		|	
+|	14	|	06.10.	|	See-Think-Do-Framework	|		[📑](https://docs.google.com/presentation/d/1grMoII17Y-8nUMQnbJfVS_xyBnom0us5wBU5fodac4M/export/pdf)		|	
+|	15	|	06.10.	|	Kennzahlensystem	|		[📑](https://docs.google.com/presentation/d/1evcXWNKDCT_NhHpORhrAN3FnObkk6ONzT6Fzxefbh1I/export/pdf)		|	
+|	16	|	06.10.	|	Case Werbeinventar	|		[📊](https://docs.google.com/spreadsheets/d/1Ft9CfS7HKJPSiRVqXoIVMcOEg1EfGkPFHKBFNzpmo40/edit?usp=sharing)		|	
+|	17	|	11.10.	|	Google Ads Einrichtung (optional)	|		[📑](https://docs.google.com/presentation/d/174vsh7QP66P4Kdn6lJfjY66sm_IGHPJXqTcQDSeTFG0/export/pdf)		|	
+|	18	|	11.10.	|	Google Ads - Werbung bei Google (optional)	|		[📑](https://docs.google.com/presentation/d/1O1mYT5HGBxd2ZOqGruXiwHozup_i5v2Tc740jHPg-5s/export/pdf)		|	
+|	19	|	11.10.	|	Social Media Tools (optional)	|		[📑](https://docs.google.com/presentation/d/1PRpAkwZTA8CGufafmmxoOFgMW1JrfRFt75o1rau_UTI/export/pdf)		|	
+|		|		|	**BigQuery for Marketing Analysts**	|		[💻](https://www.cloudskillsboost.google/quests/70?catalog_rank=%7B%22rank%22%3A48%2C%22num_filters%22%3A7%2C%22has_search%22%3Afalse%7D)		|	
+|	20	|	11.10.	|	Lab 1: Exploring Your Dataset with SQL	|		[💻](https://www.cloudskillsboost.google/focuses/3618?parent=catalog)		|	
+|	21	|	18.10.	|	Lab 2: Explore and Create Reports 	|		[💻](https://www.cloudskillsboost.google/focuses/3614?parent=catalog)		|	
+|	22	|	18.10.	|	Lab 3: Creating Permanent Tables and Views	|		[💻](https://www.cloudskillsboost.google/focuses/3690?parent=catalog)		|	
+|	23	|	25.10.	|	Lab 4: Ingesting New Datasets into BigQuery	|		[💻](https://www.cloudskillsboost.google/focuses/3692?parent=catalog)		|	
+|	24	|	25.10.	|	Lab 5: How to Build a BI Dashboard Using Google Looker Studio and BigQuery	|		[💻](https://www.cloudskillsboost.google/focuses/5538?parent=catalog)		|	
