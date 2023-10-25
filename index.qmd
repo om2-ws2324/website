@@ -11,7 +11,6 @@ This overview will be updated as the semester progresses. Content marked as opti
 :::
 
 
-
 |	Nr	|	Date	|	Content	|		Resources		|	
 |	---	|	---	|	---	|		---		|	
 |		|		|	**Web Analytics & Social Media Analytics**	|				|	
@@ -40,3 +39,8 @@ This overview will be updated as the semester progresses. Content marked as opti
 |	22	|	18.10.	|	Lab 3: Creating Permanent Tables and Views	|		[💻](https://www.cloudskillsboost.google/focuses/3690?parent=catalog)		|	
 |	23	|	25.10.	|	Lab 4: Ingesting New Datasets into BigQuery	|		[💻](https://www.cloudskillsboost.google/focuses/3692?parent=catalog)		|	
 |	24	|	25.10.	|	Lab 5: How to Build a BI Dashboard Using Google Looker Studio and BigQuery	|		[💻](https://www.cloudskillsboost.google/focuses/5538?parent=catalog)		|	
+|		|		|	**Generative AI**	|				|	
+|	25	|	08.11.	|	Introduction to Generative AI	|	<!--	[🖥](https://kirenz.github.io/slides/genai/genai)	-->	|	
+|	26	|	08.11.	|	Large Language Models	|	<!--	[🖥](https://kirenz.github.io/slides/llm/llm)	-->	|	
+|	27	|	08.11.	|	Prompt Engineering	|	<!--	[🖥](https://kirenz.github.io/lab-prompt)	-->	|	
+|		|		|		|			-->	|	
