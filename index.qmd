@@ -42,5 +42,5 @@ This overview will be updated as the semester progresses. Content marked as opti
 |		|		|	**Generative AI**	|				|	
 |	25	|	08.11.	|	Introduction to Generative AI	|	<!--	[🖥](https://kirenz.github.io/slides/genai/genai)	-->	|	
 |	26	|	08.11.	|	Large Language Models	|	<!--	[🖥](https://kirenz.github.io/slides/llm/llm)	-->	|	
-|	27	|	08.11.	|	Prompt Engineering	|		[🖥](https://kirenz.github.io/lab-prompt)		|	
-|		|		|		|			-->	|	
+|	27	|	08.11.	|	Prompt Engineering	|	<!--	[🖥](https://kirenz.github.io/lab-prompt)	-->	|	
+|		|		|		|			|	
