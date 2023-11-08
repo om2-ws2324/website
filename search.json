@@ -1,75 +1,5 @@
 [
   {
-    "objectID": "programming-requirements.html",
-    "href": "programming-requirements.html",
-    "title": "Requirements",
-    "section": "",
-    "text": "For this course you will need the following setup:\n\nPython: Anaconda, Anaconda Environment gradio and Visual Studio Code\nEnvironment: HuggingFace API key; OpenAI API (optional); environment file with your APIs\n\n\n\n\n\n\n\nImportant\n\n\n\nVisit the “Programming Toolkit-webpage” to learn how to meet all requirements."
-  },
-  {
-    "objectID": "code/notebook.html",
-    "href": "code/notebook.html",
-    "title": "Notebook",
-    "section": "",
-    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
-  },
-  {
-    "objectID": "code/notebook.html#setup",
-    "href": "code/notebook.html#setup",
-    "title": "Notebook",
-    "section": "",
-    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
-  },
-  {
-    "objectID": "code/notebook.html#data",
-    "href": "code/notebook.html#data",
-    "title": "Notebook",
-    "section": "Data",
-    "text": "Data"
-  },
-  {
-    "objectID": "course-support.html",
-    "href": "course-support.html",
-    "title": "Course support",
-    "section": "",
-    "text": "1 Lectures\nIf you have a question during lecture, feel free to ask it! There are likely other students with the same question, so by asking you will create a learning opportunity for everyone.\n\n\n2 Discussion forum\nPrefer to write out your question in detail rather than asking in person? The online discussion forum is the best venue for these! We will use the Moodle forum as the online discussion forum. There is a chance another student has already asked a similar question, so please check the other posts before adding a new question. If you know the answer to a question that is posted, I encourage you to respond!\n\n\n3 Email\nPlease refrain from emailing any course content questions (those should go to Moodle), and only use email for questions about personal matters that may not be appropriate for the public course forum. For such matters, you may email me at kirenz@hdm-stuttgart.de.\nIf there is a question that’s not appropriate for the public forum, you are welcome to email me directly. If you email me, please include the name of our course in the subject line.\n\n\n4 Academic support\nThere are times you may need help with the class that is beyond what can be provided by the teaching team. In those instances, I encourage you to visit the Center for Learning and Development: it offers free services to all students."
-  },
-  {
-    "objectID": "course-overview.html",
-    "href": "course-overview.html",
-    "title": "Course overview",
-    "section": "",
-    "text": "Welcome to our course Big Data and Web Analytics! 👋\n\nIn our course, you will delve into the intricacies of the Digital Customer Journey, using the See-Think-Do Framework to understand and map customer interactions. You will gain mastery over analytical tools such as Google Analytics and Google Ads, and implement web tracking techniques to monitor user interactions. The course also covers effective strategies for Search Engine and Social Media Marketing, which enables you to optimize marketing campaigns through analysis of various web and social media metrics.\nStudents will also be equipped with skills in Data Analysis and Visualization, using tools like Excel, SQL, Python + Pandas, and BigQuery to conduct marketing analysis and interpret data through dashboards. Advanced Artificial Intelligence and Generative AI techniques involving Large Language Models, prompt engineering, and HuggingFace will be explored, providing an insight into the cutting-edge technologies shaping the field of marketing. Moreover, the course facilitates practical application by teaching students how to design and build analytical applications using Gradio to visualize data, customize dashboards, and enable data-driven decision-making in marketing analytics."
-  },
-  {
-    "objectID": "docs/bigquery-marketing-analysts.html",
-    "href": "docs/bigquery-marketing-analysts.html",
-    "title": "BigQuery for Marketing Analysts",
-    "section": "",
-    "text": "In the follwoing sections you will find information about exam-relevant contents."
-  },
-  {
-    "objectID": "docs/bigquery-marketing-analysts.html#lab-1",
-    "href": "docs/bigquery-marketing-analysts.html#lab-1",
-    "title": "BigQuery for Marketing Analysts",
-    "section": "Lab 1",
-    "text": "Lab 1\nExploring Your Ecommerce Dataset with SQL\nYou should understand all SQL queries provided in the lab. Furthermore, you should be able to answer the following questions:\n\nWhat is BigQuery?\nWhat kind of information is provided in the BigQuery Schema-tab?"
-  },
-  {
-    "objectID": "docs/bigquery-marketing-analysts.html#lab-2",
-    "href": "docs/bigquery-marketing-analysts.html#lab-2",
-    "title": "BigQuery for Marketing Analysts",
-    "section": "Lab 2",
-    "text": "Lab 2\nExplore and Create Reports with Looker Studio\nYou should know how to create a report in Looker Studio. Furthermore, you should be able to answer the following questions:\n\nWhat is the difference between a Dimension and a Metric in Looker Studio?"
-  },
-  {
-    "objectID": "docs/bigquery-marketing-analysts.html#lab-3",
-    "href": "docs/bigquery-marketing-analysts.html#lab-3",
-    "title": "BigQuery for Marketing Analysts",
-    "section": "Lab 3",
-    "text": "Lab 3\nCreating Permanent Tables and Access-Controlled Views in BigQuery"
-  },
-  {
     "objectID": "course-syllabus.html",
     "href": "course-syllabus.html",
     "title": "Syllabus",
@@ -105,10 +35,80 @@
     "text": "3.4 Exam\nThere will be one E-exam at the end of the semester. More details about the exam will be given during the semester."
   },
   {
+    "objectID": "docs/bigquery-marketing-analysts.html",
+    "href": "docs/bigquery-marketing-analysts.html",
+    "title": "BigQuery for Marketing Analysts",
+    "section": "",
+    "text": "In the follwoing sections you will find information about exam-relevant contents."
+  },
+  {
+    "objectID": "docs/bigquery-marketing-analysts.html#lab-1",
+    "href": "docs/bigquery-marketing-analysts.html#lab-1",
+    "title": "BigQuery for Marketing Analysts",
+    "section": "Lab 1",
+    "text": "Lab 1\nExploring Your Ecommerce Dataset with SQL\nYou should understand all SQL queries provided in the lab. Furthermore, you should be able to answer the following questions:\n\nWhat is BigQuery?\nWhat kind of information is provided in the BigQuery Schema-tab?"
+  },
+  {
+    "objectID": "docs/bigquery-marketing-analysts.html#lab-2",
+    "href": "docs/bigquery-marketing-analysts.html#lab-2",
+    "title": "BigQuery for Marketing Analysts",
+    "section": "Lab 2",
+    "text": "Lab 2\nExplore and Create Reports with Looker Studio\nYou should know how to create a report in Looker Studio. Furthermore, you should be able to answer the following questions:\n\nWhat is the difference between a Dimension and a Metric in Looker Studio?"
+  },
+  {
+    "objectID": "docs/bigquery-marketing-analysts.html#lab-3",
+    "href": "docs/bigquery-marketing-analysts.html#lab-3",
+    "title": "BigQuery for Marketing Analysts",
+    "section": "Lab 3",
+    "text": "Lab 3\nCreating Permanent Tables and Access-Controlled Views in BigQuery"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Course schedule",
     "section": "",
-    "text": "Welcome to our course Big Data and Web Analytics! 👋\nThis page contains a weekly overview about the topics and materials for the semester.\n\n\n\n\n\n\nNote\n\n\n\nThis overview will be updated as the semester progresses. Content marked as optional is not relevant for the exam.\n\n\n\n\n\nNr\nDate\nContent\nResources\n\n\n\n\n\n\nWeb Analytics & Social Media Analytics\n\n\n\n1\n06.10.\nBig Data & Web Analytics\n📑\n\n\n2\n06.10.\nDigital Customer Journey\n📑\n\n\n3\n06.10.\nWeb tracking mit Blogger (optional)\nDemo\n\n\n4\n06.10.\nGoogle Analytics\n📑\n\n\n5\n06.10.\nUTM Tracking\n📑\n\n\n6\n06.10.\nGoogle Search Console (optional)\n📑\n\n\n7\n06.10.\nFacebook Kennzahlen\n📑\n\n\n8\n06.10.\nCase Facebook\n📊\n\n\n9\n06.10.\nMerchandise Pivot Case Study\n📊\n\n\n10\n06.10.\nStudio Looker Dashboard\n📊\n\n\n11\n06.10.\nCase Facebook Ads Kampagnen\n📊\n\n\n12\n06.10.\nSocial Media Kennzahlen\n📝\n\n\n13\n06.10.\nSocial Media Template\n📝\n\n\n14\n06.10.\nSee-Think-Do-Framework\n📑\n\n\n15\n06.10.\nKennzahlensystem\n📑\n\n\n16\n06.10.\nCase Werbeinventar\n📊\n\n\n17\n11.10.\nGoogle Ads Einrichtung (optional)\n📑\n\n\n18\n11.10.\nGoogle Ads - Werbung bei Google (optional)\n📑\n\n\n19\n11.10.\nSocial Media Tools (optional)\n📑\n\n\n\n\nBigQuery for Marketing Analysts\n💻\n\n\n20\n11.10.\nLab 1: Exploring Your Dataset with SQL\n💻\n\n\n21\n18.10.\nLab 2: Explore and Create Reports\n💻\n\n\n22\n18.10.\nLab 3: Creating Permanent Tables and Views\n💻\n\n\n23\n25.10.\nLab 4: Ingesting New Datasets into BigQuery\n💻\n\n\n24\n25.10.\nLab 5: How to Build a BI Dashboard Using Google Looker Studio and BigQuery\n💻\n\n\n\n\nGenerative AI\n\n\n\n25\n08.11.\nIntroduction to Generative AI\n\n\n\n26\n08.11.\nLarge Language Models\n\n\n\n27\n08.11.\nPrompt Engineering\n\n\n\n\n\n\n–&gt;"
+    "text": "Welcome to our course Big Data and Web Analytics! 👋\nThis page contains a weekly overview about the topics and materials for the semester.\n\n\n\n\n\n\nNote\n\n\n\nThis overview will be updated as the semester progresses. Content marked as optional is not relevant for the exam.\n\n\n\n\n\nNr\nDate\nContent\nResources\n\n\n\n\n\n\nWeb Analytics & Social Media Analytics\n\n\n\n1\n06.10.\nBig Data & Web Analytics\n📑\n\n\n2\n06.10.\nDigital Customer Journey\n📑\n\n\n3\n06.10.\nWeb tracking mit Blogger (optional)\nDemo\n\n\n4\n06.10.\nGoogle Analytics\n📑\n\n\n5\n06.10.\nUTM Tracking\n📑\n\n\n6\n06.10.\nGoogle Search Console (optional)\n📑\n\n\n7\n06.10.\nFacebook Kennzahlen\n📑\n\n\n8\n06.10.\nCase Facebook\n📊\n\n\n9\n06.10.\nMerchandise Pivot Case Study\n📊\n\n\n10\n06.10.\nStudio Looker Dashboard\n📊\n\n\n11\n06.10.\nCase Facebook Ads Kampagnen\n📊\n\n\n12\n06.10.\nSocial Media Kennzahlen\n📝\n\n\n13\n06.10.\nSocial Media Template\n📝\n\n\n14\n06.10.\nSee-Think-Do-Framework\n📑\n\n\n15\n06.10.\nKennzahlensystem\n📑\n\n\n16\n06.10.\nCase Werbeinventar\n📊\n\n\n17\n11.10.\nGoogle Ads Einrichtung (optional)\n📑\n\n\n18\n11.10.\nGoogle Ads - Werbung bei Google (optional)\n📑\n\n\n19\n11.10.\nSocial Media Tools (optional)\n📑\n\n\n\n\nBigQuery for Marketing Analysts\n💻\n\n\n20\n11.10.\nLab 1: Exploring Your Dataset with SQL\n💻\n\n\n21\n18.10.\nLab 2: Explore and Create Reports\n💻\n\n\n22\n18.10.\nLab 3: Creating Permanent Tables and Views\n💻\n\n\n23\n25.10.\nLab 4: Ingesting New Datasets into BigQuery\n💻\n\n\n24\n25.10.\nLab 5: How to Build a BI Dashboard Using Google Looker Studio and BigQuery\n💻\n\n\n\n\nGenerative AI\n\n\n\n25\n08.11.\nIntroduction to Generative AI\n\n\n\n26\n08.11.\nLarge Language Models\n\n\n\n27\n08.11.\nPrompt Engineering\n🖥\n\n\n\n\n\n–&gt;"
+  },
+  {
+    "objectID": "course-overview.html",
+    "href": "course-overview.html",
+    "title": "Course overview",
+    "section": "",
+    "text": "Welcome to our course Big Data and Web Analytics! 👋\n\nIn our course, you will delve into the intricacies of the Digital Customer Journey, using the See-Think-Do Framework to understand and map customer interactions. You will gain mastery over analytical tools such as Google Analytics and Google Ads, and implement web tracking techniques to monitor user interactions. The course also covers effective strategies for Search Engine and Social Media Marketing, which enables you to optimize marketing campaigns through analysis of various web and social media metrics.\nStudents will also be equipped with skills in Data Analysis and Visualization, using tools like Excel, SQL, Python + Pandas, and BigQuery to conduct marketing analysis and interpret data through dashboards. Advanced Artificial Intelligence and Generative AI techniques involving Large Language Models, prompt engineering, and HuggingFace will be explored, providing an insight into the cutting-edge technologies shaping the field of marketing. Moreover, the course facilitates practical application by teaching students how to design and build analytical applications using Gradio to visualize data, customize dashboards, and enable data-driven decision-making in marketing analytics."
+  },
+  {
+    "objectID": "code/notebook.html",
+    "href": "code/notebook.html",
+    "title": "Notebook",
+    "section": "",
+    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
+  },
+  {
+    "objectID": "code/notebook.html#setup",
+    "href": "code/notebook.html#setup",
+    "title": "Notebook",
+    "section": "",
+    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
+  },
+  {
+    "objectID": "code/notebook.html#data",
+    "href": "code/notebook.html#data",
+    "title": "Notebook",
+    "section": "Data",
+    "text": "Data"
+  },
+  {
+    "objectID": "course-support.html",
+    "href": "course-support.html",
+    "title": "Course support",
+    "section": "",
+    "text": "1 Lectures\nIf you have a question during lecture, feel free to ask it! There are likely other students with the same question, so by asking you will create a learning opportunity for everyone.\n\n\n2 Discussion forum\nPrefer to write out your question in detail rather than asking in person? The online discussion forum is the best venue for these! We will use the Moodle forum as the online discussion forum. There is a chance another student has already asked a similar question, so please check the other posts before adding a new question. If you know the answer to a question that is posted, I encourage you to respond!\n\n\n3 Email\nPlease refrain from emailing any course content questions (those should go to Moodle), and only use email for questions about personal matters that may not be appropriate for the public course forum. For such matters, you may email me at kirenz@hdm-stuttgart.de.\nIf there is a question that’s not appropriate for the public forum, you are welcome to email me directly. If you email me, please include the name of our course in the subject line.\n\n\n4 Academic support\nThere are times you may need help with the class that is beyond what can be provided by the teaching team. In those instances, I encourage you to visit the Center for Learning and Development: it offers free services to all students."
+  },
+  {
+    "objectID": "programming-requirements.html",
+    "href": "programming-requirements.html",
+    "title": "Requirements",
+    "section": "",
+    "text": "For this course you will need the following setup:\n\nPython: Anaconda, Anaconda Environment gradio and Visual Studio Code\nEnvironment: HuggingFace API key; OpenAI API (optional); environment file with your APIs\n\n\n\n\n\n\n\nImportant\n\n\n\nVisit the “Programming Toolkit-webpage” to learn how to meet all requirements."
   }
 ]
