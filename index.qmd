@@ -10,7 +10,6 @@ This page contains a weekly overview about the topics and materials for the seme
 This overview will be updated as the semester progresses. Content marked as optional is not relevant for the exam.
 :::
 
-
 |	Nr	|	Date	|	Content	|		Resources		|	
 |	---	|	---	|	---	|		---		|	
 |		|		|	**Web Analytics & Social Media Analytics**	|				|	
@@ -40,7 +39,4 @@ This overview will be updated as the semester progresses. Content marked as opti
 |	23	|	25.10.	|	Lab 4: Ingesting New Datasets into BigQuery	|		[💻](https://www.cloudskillsboost.google/focuses/3692?parent=catalog)		|	
 |	24	|	25.10.	|	Lab 5: How to Build a BI Dashboard Using Google Looker Studio and BigQuery	|		[💻](https://www.cloudskillsboost.google/focuses/5538?parent=catalog)		|	
 |		|		|	**Generative AI**	|				|	
-|	25	|	08.11.	|	Introduction to Generative AI	|	<!--	[🖥](https://kirenz.github.io/slides/genai/genai)	-->	|	
-|	26	|	08.11.	|	Large Language Models	|	<!--	[🖥](https://kirenz.github.io/slides/llm/llm)	-->	|	
-|	27	|	08.11.	|	Prompt Engineering	|	<!--	[🖥](https://kirenz.github.io/lab-prompt)	-->	|	
-|		|		|		|			|	
+|	25	|	08.11.	|	State of the Art	|		[🖥 YouTube ](https://www.youtube.com/watch?v=U9mJuUkhUzk)[ OpenAI](https://openai.com/blog)"		|	
