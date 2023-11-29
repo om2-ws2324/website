@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://om2-ws2324.github.io/website/course-syllabus.html</loc>
-    <lastmod>2023-11-15T14:38:20.220Z</lastmod>
+    <loc>https://om2-ws2324.github.io/website/code/notebook.html</loc>
+    <lastmod>2023-11-29T12:18:35.782Z</lastmod>
   </url>
   <url>
-    <loc>https://om2-ws2324.github.io/website/docs/bigquery-marketing-analysts.html</loc>
-    <lastmod>2023-11-15T14:38:19.364Z</lastmod>
+    <loc>https://om2-ws2324.github.io/website/course-syllabus.html</loc>
+    <lastmod>2023-11-29T12:18:35.210Z</lastmod>
   </url>
   <url>
     <loc>https://om2-ws2324.github.io/website/index.html</loc>
-    <lastmod>2023-11-15T14:38:18.740Z</lastmod>
+    <lastmod>2023-11-29T12:18:34.422Z</lastmod>
   </url>
   <url>
     <loc>https://om2-ws2324.github.io/website/course-overview.html</loc>
-    <lastmod>2023-11-15T14:38:17.396Z</lastmod>
-  </url>
-  <url>
-    <loc>https://om2-ws2324.github.io/website/code/notebook.html</loc>
-    <lastmod>2023-11-15T14:38:18.292Z</lastmod>
+    <lastmod>2023-11-29T12:18:33.090Z</lastmod>
   </url>
   <url>
     <loc>https://om2-ws2324.github.io/website/course-support.html</loc>
-    <lastmod>2023-11-15T14:38:19.056Z</lastmod>
+    <lastmod>2023-11-29T12:18:33.982Z</lastmod>
+  </url>
+  <url>
+    <loc>https://om2-ws2324.github.io/website/docs/bigquery-marketing-analysts.html</loc>
+    <lastmod>2023-11-29T12:18:34.722Z</lastmod>
   </url>
   <url>
     <loc>https://om2-ws2324.github.io/website/programming-requirements.html</loc>
-    <lastmod>2023-11-15T14:38:19.664Z</lastmod>
+    <lastmod>2023-11-29T12:18:35.498Z</lastmod>
   </url>
 </urlset>
