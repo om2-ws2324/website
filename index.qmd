@@ -45,5 +45,4 @@ This overview will be updated as the semester progresses. Content marked as opti
 |	32	|	OpenAI Assistants API Code Exercise	|		[🖥 Moodle](https://moodle.hdm-stuttgart.de/course/view.php?id=2233&section=6)		|	
 |	33	|	OpenAI Assistants API Code Solution	|		[🖥 Slide](https://kirenz.github.io/lab-assistants-api/slides/assistant-intro.html#/title-slide)		|	
 |	34	|	**Dashboards**	|				|	
-|	35	|	Streamlit Dashboard	|				|	
-|	36	|	User Interface (Streamlit)	|				|	
+|	35	|	Streamlit Dashboard Code	|		[💻 Code](https://raw.githubusercontent.com/kirenz/streamlit-app/main/example/app.py)		|	
