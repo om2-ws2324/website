@@ -39,7 +39,7 @@ This overview will be updated as the semester progresses. Content marked as not 
 |	25	|	Lab 4: Ingesting New Datasets into BigQuery	|		[💻](https://www.cloudskillsboost.google/focuses/3692?parent=catalog)		|	
 |	26	|	Lab 5: How to Build a BI Dashboard Using Google Looker Studio and BigQuery	|		[💻](https://www.cloudskillsboost.google/focuses/5538?parent=catalog)		|	
 |	27	|	**Generative AI**	|				|	
-|	28	|	State of the Art	|		[🖥 YouTube ](https://www.youtube.com/watch?v=U9mJuUkhUzk), [ OpenAI](https://openai.com/blog)		|	
+|	28	|	State of the Art (not in exam)	|		[🖥 YouTube ](https://www.youtube.com/watch?v=U9mJuUkhUzk), [ OpenAI](https://openai.com/blog)		|	
 |	29	|	Prompt Engineering Code Exercise	|		[🖥 Moodle](https://moodle.hdm-stuttgart.de/course/view.php?id=2233&section=6)		|	
 |	30	|	Prompt Engineering Code Solution	|		[🖥 Slide](https://kirenz.github.io/lab-prompt/slides/guidelines.html#/title-slide)		|	
 |	32	|	OpenAI Assistants API Code Exercise	|		[🖥 Moodle](https://moodle.hdm-stuttgart.de/course/view.php?id=2233&section=6)		|	
