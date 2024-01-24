@@ -10,28 +10,29 @@ This page contains a weekly overview about the topics and materials for the seme
 This overview will be updated as the semester progresses. Content marked as not in exam is not relevant for the exam.
 :::
 
+
 |	Nr	|	Content	|		Resources		|	
 |	---	|	---	|		---		|	
 |	1	|	**Web Analytics & Social Media Analytics**	|				|	
 |	2	|	Big Data & Web Analytics	|		[📑](https://docs.google.com/presentation/d/14mDixoFHReJhc7D3G0ooC_CZJ8R14AcjJLXqFfUmKgo/export/pdf)		|	
 |	3	|	Digital Customer Journey	|		[📑](https://docs.google.com/presentation/d/1PjsH6zrGXJQmVUeUXqtx97YXXrxmwhj13n442SDNyIE/export/pdf)		|	
-|	4	|	Web tracking mit Blogger (not in exam)	|		Demo		|	
-|	5	|	Google Analytics (not in exam)	|		[📑](https://docs.google.com/presentation/d/1rWW6ZyH8-Cex4g04wKnXMtjhBZVnPmUdoEZn7rXwer0/export/pdf)		|	
+|	4	|	Web tracking mit Blogger (optional)	|		Demo		|	
+|	5	|	Google Analytics	|		[📑](https://docs.google.com/presentation/d/1rWW6ZyH8-Cex4g04wKnXMtjhBZVnPmUdoEZn7rXwer0/export/pdf)		|	
 |	6	|	UTM Tracking	|		[📑](https://docs.google.com/presentation/d/1_BBH1kD_i_bRA4Rcp8PY6TjDpx95lD6NbOAE-YfWxnY/export/pdf)		|	
-|	7	|	Google Search Console (not in exam)	|		[📑](https://docs.google.com/presentation/d/1rl7v3MyLANhU6HKbwhYdxMzWoHvt6lxoWPdkO9y0UWg/export/pdf)		|	
+|	7	|	Google Search Console (optional)	|		[📑](https://docs.google.com/presentation/d/1rl7v3MyLANhU6HKbwhYdxMzWoHvt6lxoWPdkO9y0UWg/export/pdf)		|	
 |	8	|	Facebook Kennzahlen	|		[📑](https://docs.google.com/presentation/d/1hljb0T3sA5yDMCvSXy_SAv3vgW3hSVasc7dT-wwynPE/export/pdf)		|	
 |	9	|	Case Facebook	|		[📊](https://docs.google.com/spreadsheets/d/1aTkSrNZPeh14Ier3WX-Po5zIlmLWujLfWLfqQcLHKXo/edit?usp=sharing)		|	
 |	10	|	Merchandise Pivot Case Study	|		[📊](https://docs.google.com/spreadsheets/d/1hsUE0PHJR-wmELI8y2XFgcYBFFwqKG4UjI3Y8odM6kU/edit?usp=sharing)		|	
-|	11	|	Studio Looker Dashboard (not in exam)	|		[📊](https://lookerstudio.google.com/navigation/reporting)		|	
+|	11	|	Studio Looker Dashboard	|		[📊](https://lookerstudio.google.com/navigation/reporting)		|	
 |	12	|	Case Facebook Ads Kampagnen	|		[📊](https://docs.google.com/spreadsheets/d/1svLWw4-mtjcfOfTTxxu2e6PKWlLmhUgeGtefzE6I3mk/edit?usp=sharing)		|	
 |	13	|	Social Media Kennzahlen	|		[📝](https://docs.google.com/presentation/d/1OAy9Qe3h0AlePEcYoeHF9qPLL7aGYvlhvvXsANrl9-g/view?usp=sharing)		|	
-|	14	|	Social Media Template (not in exam)	|		[📝](https://docs.google.com/presentation/d/15I-qdXuIzqVQo0m7MPdd_u7YK0joMCWU6fHifHkPZHc/view?usp=sharing)		|	
+|	14	|	Social Media Template	|		[📝](https://docs.google.com/presentation/d/15I-qdXuIzqVQo0m7MPdd_u7YK0joMCWU6fHifHkPZHc/view?usp=sharing)		|	
 |	15	|	See-Think-Do-Framework	|		[📑](https://docs.google.com/presentation/d/1grMoII17Y-8nUMQnbJfVS_xyBnom0us5wBU5fodac4M/export/pdf)		|	
 |	16	|	Kennzahlensystem	|		[📑](https://docs.google.com/presentation/d/1evcXWNKDCT_NhHpORhrAN3FnObkk6ONzT6Fzxefbh1I/export/pdf)		|	
 |	17	|	Case Werbeinventar	|		[📊](https://docs.google.com/spreadsheets/d/1Ft9CfS7HKJPSiRVqXoIVMcOEg1EfGkPFHKBFNzpmo40/edit?usp=sharing)		|	
-|	18	|	Google Ads Einrichtung (not in exam)	|		[📑](https://docs.google.com/presentation/d/174vsh7QP66P4Kdn6lJfjY66sm_IGHPJXqTcQDSeTFG0/export/pdf)		|	
-|	19	|	Google Ads - Werbung bei Google (not in exam)	|		[📑](https://docs.google.com/presentation/d/1O1mYT5HGBxd2ZOqGruXiwHozup_i5v2Tc740jHPg-5s/export/pdf)		|	
-|	20	|	Social Media Tools (not in exam)	|		[📑](https://docs.google.com/presentation/d/1PRpAkwZTA8CGufafmmxoOFgMW1JrfRFt75o1rau_UTI/export/pdf)		|	
+|	18	|	Google Ads Einrichtung (optional)	|		[📑](https://docs.google.com/presentation/d/174vsh7QP66P4Kdn6lJfjY66sm_IGHPJXqTcQDSeTFG0/export/pdf)		|	
+|	19	|	Google Ads - Werbung bei Google (optional)	|		[📑](https://docs.google.com/presentation/d/1O1mYT5HGBxd2ZOqGruXiwHozup_i5v2Tc740jHPg-5s/export/pdf)		|	
+|	20	|	Social Media Tools (optional)	|		[📑](https://docs.google.com/presentation/d/1PRpAkwZTA8CGufafmmxoOFgMW1JrfRFt75o1rau_UTI/export/pdf)		|	
 |	21	|	**BigQuery for Marketing Analysts**	|		[💻](https://www.cloudskillsboost.google/quests/70?catalog_rank=%7B%22rank%22%3A48%2C%22num_filters%22%3A7%2C%22has_search%22%3Afalse%7D)		|	
 |	22	|	Lab 1: Exploring Your Dataset with SQL	|		[💻](https://www.cloudskillsboost.google/focuses/3618?parent=catalog)		|	
 |	23	|	Lab 2: Explore and Create Reports 	|		[💻](https://www.cloudskillsboost.google/focuses/3614?parent=catalog)		|	
@@ -39,10 +40,12 @@ This overview will be updated as the semester progresses. Content marked as not 
 |	25	|	Lab 4: Ingesting New Datasets into BigQuery	|		[💻](https://www.cloudskillsboost.google/focuses/3692?parent=catalog)		|	
 |	26	|	Lab 5: How to Build a BI Dashboard Using Google Looker Studio and BigQuery	|		[💻](https://www.cloudskillsboost.google/focuses/5538?parent=catalog)		|	
 |	27	|	**Generative AI**	|				|	
-|	28	|	State of the Art (not in exam)	|		[🖥 YouTube ](https://www.youtube.com/watch?v=U9mJuUkhUzk), [ OpenAI](https://openai.com/blog)		|	
+|	28	|	State of the Art	|		[🖥 YouTube ](https://www.youtube.com/watch?v=U9mJuUkhUzk), [ OpenAI](https://openai.com/blog)		|	
 |	29	|	Prompt Engineering Code Exercise	|		[🖥 Moodle](https://moodle.hdm-stuttgart.de/course/view.php?id=2233&section=6)		|	
 |	30	|	Prompt Engineering Code Solution	|		[🖥 Slide](https://kirenz.github.io/lab-prompt/slides/guidelines.html#/title-slide)		|	
 |	32	|	OpenAI Assistants API Code Exercise	|		[🖥 Moodle](https://moodle.hdm-stuttgart.de/course/view.php?id=2233&section=6)		|	
 |	33	|	OpenAI Assistants API Code Solution	|		[🖥 Slide](https://kirenz.github.io/lab-assistants-api/slides/assistant-intro.html#/title-slide)		|	
-|	34	|	**Dashboards**	|				|	
+|	34	|	**Dashboards and Gen AI**	|				|	
 |	35	|	Streamlit Dashboard Code	|		[💻 Code](https://raw.githubusercontent.com/kirenz/streamlit-app/main/example/app.py)		|	
+|	36	|	Generative AI Overview	|		[🖥 Slide](https://kirenz.github.io/slides/genai/genai.html#/title-slide)		|	
+|	37	|	Streamlit and Generative AI	|		[💻 Code](https://github.com/kirenz/llm-examples)		|	
