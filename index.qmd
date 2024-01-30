@@ -46,3 +46,5 @@ This overview will be updated as the semester progresses. Content marked as not 
 |	33	|	OpenAI Assistants API Code Solution	|		[🖥 Slide](https://kirenz.github.io/lab-assistants-api/slides/assistant-intro.html#/title-slide)		|	
 |	34	|	**Dashboards**	|				|	
 |	35	|	Streamlit Dashboard Code	|		[💻 Code](https://raw.githubusercontent.com/kirenz/streamlit-app/main/example/app.py)		|	
+|	36	|	Generative AI Overview	|		[🖥 Slide](https://kirenz.github.io/slides/genai/genai.html#/title-slide)		|				|		
+|	37	|	Streamlit and Generative AI	|		[💻 Code](https://github.com/kirenz/llm-examples)		|				|		
