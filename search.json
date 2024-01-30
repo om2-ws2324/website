@@ -1,16 +1,5 @@
 [
   {
-    "objectID": "course-overview.html",
-    "href": "course-overview.html",
-    "title": "Course overview",
-    "section": "",
-    "text": "Welcome to our course Big Data and Web Analytics! 👋\n\nIn our course, you will delve into the intricacies of the Digital Customer Journey, using the See-Think-Do Framework to understand and map customer interactions. You will gain mastery over analytical tools such as Google Analytics and Google Ads, and implement web tracking techniques to monitor user interactions. The course also covers effective strategies for Search Engine and Social Media Marketing, which enables you to optimize marketing campaigns through analysis of various web and social media metrics.\nStudents will also be equipped with skills in Data Analysis and Visualization, using tools like Excel, SQL, Python + Pandas, and BigQuery to conduct marketing analysis and interpret data through dashboards. Advanced Artificial Intelligence and Generative AI techniques involving Large Language Models, prompt engineering, and HuggingFace will be explored, providing an insight into the cutting-edge technologies shaping the field of marketing. Moreover, the course facilitates practical application by teaching students how to design and build analytical applications using Gradio to visualize data, customize dashboards, and enable data-driven decision-making in marketing analytics.",
-    "crumbs": [
-      "Course information",
-      "Overview"
-    ]
-  },
-  {
     "objectID": "programming-requirements.html",
     "href": "programming-requirements.html",
     "title": "Requirements",
@@ -22,6 +11,45 @@
     ]
   },
   {
+    "objectID": "course-overview.html",
+    "href": "course-overview.html",
+    "title": "Course overview",
+    "section": "",
+    "text": "Welcome to our course Big Data and Web Analytics! 👋\n\nIn our course, you will delve into the intricacies of the Digital Customer Journey, using the See-Think-Do Framework to understand and map customer interactions. You will gain mastery over analytical tools such as Google Analytics and Google Ads, and implement web tracking techniques to monitor user interactions. The course also covers effective strategies for Search Engine and Social Media Marketing, which enables you to optimize marketing campaigns through analysis of various web and social media metrics.\nStudents will also be equipped with skills in Data Analysis and Visualization, using tools like Excel, SQL, Python + Pandas, and BigQuery to conduct marketing analysis and interpret data through dashboards. Advanced Artificial Intelligence and Generative AI techniques involving Large Language Models, prompt engineering, and HuggingFace will be explored, providing an insight into the cutting-edge technologies shaping the field of marketing. Moreover, the course facilitates practical application by teaching students how to design and build analytical applications using Gradio to visualize data, customize dashboards, and enable data-driven decision-making in marketing analytics.",
+    "crumbs": [
+      "Course information",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "docs/bigquery-marketing-analysts.html",
+    "href": "docs/bigquery-marketing-analysts.html",
+    "title": "BigQuery for Marketing Analysts",
+    "section": "",
+    "text": "In the follwoing sections you will find information about exam-relevant contents."
+  },
+  {
+    "objectID": "docs/bigquery-marketing-analysts.html#lab-1",
+    "href": "docs/bigquery-marketing-analysts.html#lab-1",
+    "title": "BigQuery for Marketing Analysts",
+    "section": "Lab 1",
+    "text": "Lab 1\nExploring Your Ecommerce Dataset with SQL\nYou should understand all SQL queries provided in the lab. Furthermore, you should be able to answer the following questions:\n\nWhat is BigQuery?\nWhat kind of information is provided in the BigQuery Schema-tab?"
+  },
+  {
+    "objectID": "docs/bigquery-marketing-analysts.html#lab-2",
+    "href": "docs/bigquery-marketing-analysts.html#lab-2",
+    "title": "BigQuery for Marketing Analysts",
+    "section": "Lab 2",
+    "text": "Lab 2\nExplore and Create Reports with Looker Studio\nYou should know how to create a report in Looker Studio. Furthermore, you should be able to answer the following questions:\n\nWhat is the difference between a Dimension and a Metric in Looker Studio?"
+  },
+  {
+    "objectID": "docs/bigquery-marketing-analysts.html#lab-3",
+    "href": "docs/bigquery-marketing-analysts.html#lab-3",
+    "title": "BigQuery for Marketing Analysts",
+    "section": "Lab 3",
+    "text": "Lab 3\nCreating Permanent Tables and Access-Controlled Views in BigQuery"
+  },
+  {
     "objectID": "course-support.html",
     "href": "course-support.html",
     "title": "Course support",
@@ -30,6 +58,17 @@
     "crumbs": [
       "Course information",
       "Support"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Course schedule",
+    "section": "",
+    "text": "Welcome to our course Big Data and Web Analytics! 👋\nThis page contains a weekly overview about the topics and materials for the semester.\n\n\n\n\n\n\nNote\n\n\n\nThis overview will be updated as the semester progresses. Content marked as not in exam is not relevant for the exam.\n\n\n\n\n\nNr\nContent\nResources\n\n\n\n\n1\nWeb Analytics & Social Media Analytics\n\n\n\n2\nBig Data & Web Analytics\n📑\n\n\n3\nDigital Customer Journey\n📑\n\n\n4\nWeb tracking mit Blogger (not in exam)\nDemo\n\n\n5\nGoogle Analytics (not in exam)\n📑\n\n\n6\nUTM Tracking\n📑\n\n\n7\nGoogle Search Console (not in exam)\n📑\n\n\n8\nFacebook Kennzahlen\n📑\n\n\n9\nCase Facebook\n📊\n\n\n10\nMerchandise Pivot Case Study\n📊\n\n\n11\nStudio Looker Dashboard (not in exam)\n📊\n\n\n12\nCase Facebook Ads Kampagnen\n📊\n\n\n13\nSocial Media Kennzahlen\n📝\n\n\n14\nSocial Media Template (not in exam)\n📝\n\n\n15\nSee-Think-Do-Framework\n📑\n\n\n16\nKennzahlensystem\n📑\n\n\n17\nCase Werbeinventar\n📊\n\n\n18\nGoogle Ads Einrichtung (not in exam)\n📑\n\n\n19\nGoogle Ads - Werbung bei Google (not in exam)\n📑\n\n\n20\nSocial Media Tools (not in exam)\n📑\n\n\n21\nBigQuery for Marketing Analysts\n💻\n\n\n22\nLab 1: Exploring Your Dataset with SQL\n💻\n\n\n23\nLab 2: Explore and Create Reports\n💻\n\n\n24\nLab 3: Creating Permanent Tables and Views\n💻\n\n\n25\nLab 4: Ingesting New Datasets into BigQuery\n💻\n\n\n26\nLab 5: How to Build a BI Dashboard Using Google Looker Studio and BigQuery\n💻\n\n\n27\nGenerative AI\n\n\n\n28\nState of the Art (not in exam)\n🖥 YouTube, OpenAI\n\n\n29\nPrompt Engineering Code Exercise\n🖥 Moodle\n\n\n30\nPrompt Engineering Code Solution\n🖥 Slide\n\n\n32\nOpenAI Assistants API Code Exercise\n🖥 Moodle\n\n\n33\nOpenAI Assistants API Code Solution\n🖥 Slide\n\n\n34\nDashboards\n\n\n\n35\nStreamlit Dashboard Code\n💻 Code\n\n\n36\nGenerative AI Overview\n🖥 Slide\n\n\n37\nStreamlit and Generative AI\n💻 Code",
+    "crumbs": [
+      "Course information",
+      "Schedule"
     ]
   },
   {
@@ -86,45 +125,6 @@
       "Course information",
       "Syllabus"
     ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Course schedule",
-    "section": "",
-    "text": "Welcome to our course Big Data and Web Analytics! 👋\nThis page contains a weekly overview about the topics and materials for the semester.\n\n\n\n\n\n\nNote\n\n\n\nThis overview will be updated as the semester progresses. Content marked as not in exam is not relevant for the exam.\n\n\n\n\n\nNr\nContent\nResources\n\n\n\n\n1\nWeb Analytics & Social Media Analytics\n\n\n\n2\nBig Data & Web Analytics\n📑\n\n\n3\nDigital Customer Journey\n📑\n\n\n4\nWeb tracking mit Blogger (not in exam)\nDemo\n\n\n5\nGoogle Analytics (not in exam)\n📑\n\n\n6\nUTM Tracking\n📑\n\n\n7\nGoogle Search Console (not in exam)\n📑\n\n\n8\nFacebook Kennzahlen\n📑\n\n\n9\nCase Facebook\n📊\n\n\n10\nMerchandise Pivot Case Study\n📊\n\n\n11\nStudio Looker Dashboard (not in exam)\n📊\n\n\n12\nCase Facebook Ads Kampagnen\n📊\n\n\n13\nSocial Media Kennzahlen\n📝\n\n\n14\nSocial Media Template (not in exam)\n📝\n\n\n15\nSee-Think-Do-Framework\n📑\n\n\n16\nKennzahlensystem\n📑\n\n\n17\nCase Werbeinventar\n📊\n\n\n18\nGoogle Ads Einrichtung (not in exam)\n📑\n\n\n19\nGoogle Ads - Werbung bei Google (not in exam)\n📑\n\n\n20\nSocial Media Tools (not in exam)\n📑\n\n\n21\nBigQuery for Marketing Analysts\n💻\n\n\n22\nLab 1: Exploring Your Dataset with SQL\n💻\n\n\n23\nLab 2: Explore and Create Reports\n💻\n\n\n24\nLab 3: Creating Permanent Tables and Views\n💻\n\n\n25\nLab 4: Ingesting New Datasets into BigQuery\n💻\n\n\n26\nLab 5: How to Build a BI Dashboard Using Google Looker Studio and BigQuery\n💻\n\n\n27\nGenerative AI\n\n\n\n28\nState of the Art (not in exam)\n🖥 YouTube, OpenAI\n\n\n29\nPrompt Engineering Code Exercise\n🖥 Moodle\n\n\n30\nPrompt Engineering Code Solution\n🖥 Slide\n\n\n32\nOpenAI Assistants API Code Exercise\n🖥 Moodle\n\n\n33\nOpenAI Assistants API Code Solution\n🖥 Slide\n\n\n34\nDashboards\n\n\n\n35\nStreamlit Dashboard Code\n💻 Code",
-    "crumbs": [
-      "Course information",
-      "Schedule"
-    ]
-  },
-  {
-    "objectID": "docs/bigquery-marketing-analysts.html",
-    "href": "docs/bigquery-marketing-analysts.html",
-    "title": "BigQuery for Marketing Analysts",
-    "section": "",
-    "text": "In the follwoing sections you will find information about exam-relevant contents."
-  },
-  {
-    "objectID": "docs/bigquery-marketing-analysts.html#lab-1",
-    "href": "docs/bigquery-marketing-analysts.html#lab-1",
-    "title": "BigQuery for Marketing Analysts",
-    "section": "Lab 1",
-    "text": "Lab 1\nExploring Your Ecommerce Dataset with SQL\nYou should understand all SQL queries provided in the lab. Furthermore, you should be able to answer the following questions:\n\nWhat is BigQuery?\nWhat kind of information is provided in the BigQuery Schema-tab?"
-  },
-  {
-    "objectID": "docs/bigquery-marketing-analysts.html#lab-2",
-    "href": "docs/bigquery-marketing-analysts.html#lab-2",
-    "title": "BigQuery for Marketing Analysts",
-    "section": "Lab 2",
-    "text": "Lab 2\nExplore and Create Reports with Looker Studio\nYou should know how to create a report in Looker Studio. Furthermore, you should be able to answer the following questions:\n\nWhat is the difference between a Dimension and a Metric in Looker Studio?"
-  },
-  {
-    "objectID": "docs/bigquery-marketing-analysts.html#lab-3",
-    "href": "docs/bigquery-marketing-analysts.html#lab-3",
-    "title": "BigQuery for Marketing Analysts",
-    "section": "Lab 3",
-    "text": "Lab 3\nCreating Permanent Tables and Access-Controlled Views in BigQuery"
   },
   {
     "objectID": "code/notebook.html",
